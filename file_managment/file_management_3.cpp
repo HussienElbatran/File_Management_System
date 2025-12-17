@@ -3,6 +3,7 @@
     - We use the >> operator which extracts text up to whitespace.
 */
 
+/*
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -23,6 +24,7 @@ int main() {
     file.close();
     return 0;
 }
+*/
 
 
 
@@ -32,6 +34,7 @@ int main() {
     - We use file.get() which reads a single character at a time.
 */
 
+/*
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -52,6 +55,7 @@ int main() {
     file.close();
     return 0;
 }
+*/
 
 
 
@@ -60,6 +64,8 @@ int main() {
     - We use getline() which reads an entire line including spaces until newline.
     from string class
 */
+
+/*
 
 #include <iostream>
 #include <fstream>
@@ -82,7 +88,7 @@ int main() {
     file.close();
     return 0;
 }
-
+*/
 
 /*
     eof():
@@ -91,6 +97,8 @@ int main() {
     - Tells us when we've reached the end of the file.
 */
 
+
+/*
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -109,7 +117,7 @@ int main() {
     file.close();
     return 0;
 }
-
+*/
 
 /*
     fail():
@@ -117,6 +125,8 @@ int main() {
     - Detects reading errors or invalid input.
 */
 
+
+/*
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -136,5 +146,6 @@ int main() {
     file.close();
     return 0;
 }
+*/
 
 

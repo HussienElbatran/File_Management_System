@@ -5,6 +5,9 @@
     - We read line by line and write into the new file.
 */
 
+
+
+/*
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -30,7 +33,7 @@ int main() {
     cout << "Text copied successfully!" << endl;
     return 0;
 }
-
+*/
 
 
 
@@ -41,6 +44,10 @@ int main() {
     - We read character by character and write to the new file.
 */
 
+
+
+
+/*
 #include <iostream>
 #include <fstream>
 using namespace std; 
@@ -65,3 +72,4 @@ int main() {
     cout << "Image copied successfully!" << endl;
     return 0;
 }
+*/

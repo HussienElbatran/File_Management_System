@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="file_management_3.cpp" />
+    <ClCompile Include="file_management_6.cpp" />
     <ClCompile Include="file_managment.cpp" />
     <ClCompile Include="file_managment_2.cpp" />
     <ClCompile Include="file_managment_4.cpp" />
     <ClCompile Include="file_managment_5.cpp" />
+    <ClCompile Include="practical_exam.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

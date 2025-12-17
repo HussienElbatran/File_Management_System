@@ -22,7 +22,9 @@
 
 // Open file for reading and writing, append mode
 
+/*
 #include <iostream>
+#include <string>
 #include <fstream>
 using namespace std;
 
@@ -50,12 +52,13 @@ int main() {
     file.close();
     return 0;
 }
-
+*/
 
 
 
 // Open file for reading and writing, clear old content
 
+/*
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -85,3 +88,4 @@ int main() {
     file.close();
     return 0;
 }
+*/
