@@ -3,7 +3,7 @@
     - We use the >> operator which extracts text up to whitespace.
 */
 
-/*
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -24,7 +24,7 @@ int main() {
     file.close();
     return 0;
 }
-*/
+
 
 
 
@@ -34,7 +34,7 @@ int main() {
     - We use file.get() which reads a single character at a time.
 */
 
-/*
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -55,7 +55,7 @@ int main() {
     file.close();
     return 0;
 }
-*/
+
 
 
 
@@ -65,7 +65,7 @@ int main() {
     from string class
 */
 
-/*
+
 
 #include <iostream>
 #include <fstream>
@@ -98,7 +98,7 @@ int main() {
 */
 
 
-/*
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -117,7 +117,7 @@ int main() {
     file.close();
     return 0;
 }
-*/
+
 
 /*
     fail():
@@ -126,7 +126,7 @@ int main() {
 */
 
 
-/*
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -146,6 +146,6 @@ int main() {
     file.close();
     return 0;
 }
-*/
+
 
 
