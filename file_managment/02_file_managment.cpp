@@ -15,7 +15,7 @@
     Always check if file is opened successfully!
 */
 
-/*
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -53,4 +53,3 @@ int main() {
     return 0;
 }
 
-*/
